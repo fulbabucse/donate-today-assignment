@@ -41,10 +41,10 @@
 }
 
 .donate-today {
-    height: 500px;
+    height: 450px;
 }
 
-.donate-today h1 {
+.donate-heading {
     font-size: 50px;
     color: #000;
     text-align: center;
@@ -52,7 +52,7 @@
     margin-bottom: 20px;
 }
 
-.donate-today p {
+.donate-describe {
     font-size: 20px;
     text-align: center;
     margin: 0 300px;
@@ -71,4 +71,73 @@
     background-color: #FAFAFA;
     border-radius: 10px;
     font-size: 40px;
+}
+
+.other-amount {
+    margin-left: 26%;
+}
+
+.text-box {
+    text-align: center;
+    width: 700px;
+    border: none;
+    border-bottom: 2px solid #e3d5d5;
+    font-size: 20px;
+    padding-bottom: 5px;
+}
+
+.second-donate-now-btn {
+    margin-top: 50px;
+}
+
+.our-donate-plan {
+    margin-top: 100px;
+    height: 500px;
+}
+
+.donate {
+    margin-top: 50px;
+    margin-left: 10%;
+}
+
+.donate-plan {
+    float: left;
+    width: 26%;
+}
+
+.donate-plan h2 {
+    margin: 20px 0px 20px;
+    font-size: 25px;
+}
+
+.describe {
+    font-size: 18px;
+    color: #333;
+}
+
+.donate-plan img {
+    margin-top: 30px;
+}
+
+#donate-plan-01 {
+    background-color: #EDF5F6;
+    padding: 20px;
+    border-radius: 10px;
+    height: 280px;
+    margin-right: 20px;
+}
+
+#donate-plan-02 {
+    background-color: #FFEEEE;
+    padding: 20px;
+    border-radius: 10px;
+    height: 280px;
+    margin-right: 20px;
+}
+
+#donate-plan-03 {
+    background-color: #FFF4D6;
+    padding: 20px;
+    border-radius: 10px;
+    height: 280px;
 }
